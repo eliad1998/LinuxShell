@@ -1,5 +1,5 @@
 //
-// Eliad Arzuan 206482622
+// Eliad Arzuan
 //
 
 #include <stdio.h>

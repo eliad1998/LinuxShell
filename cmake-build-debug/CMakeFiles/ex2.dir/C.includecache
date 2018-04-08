@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eliad1998/Documents/אוניברסיטה/מערכות הפעלה/תרגילי בית/תרגיל 2 מערכות הפעלה/ex2/ex2.c
+stdio.h
+-
+unistd.h
+-
+sys/wait.h
+-
+stdlib.h
+-
+string.h
+-
+

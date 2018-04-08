@@ -1,0 +1,3 @@
+/home/eliad1998/Documents/אוניברסיטה/מערכות הפעלה/תרגילי בית/תרגיל 2 מערכות הפעלה/ex2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/eliad1998/Documents/אוניברסיטה/מערכות הפעלה/תרגילי בית/תרגיל 2 מערכות הפעלה/ex2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/eliad1998/Documents/אוניברסיטה/מערכות הפעלה/תרגילי בית/תרגיל 2 מערכות הפעלה/ex2/cmake-build-debug/CMakeFiles/ex2.dir
